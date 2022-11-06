@@ -1,1 +1,33 @@
-During my 4 months of job as Process Associate , I came up with a self
+During my 4 months of job as Process Associate , I came up with a self initiated project which the support and 
+permission of Mr.Ravi Ranganathan , Allins WealthPro Private Limited, Founder and the Manager of Chennai Branch.
+* Since its a retail insurance industry, agents would we sending details of insure (vehicle) to make new policy with repective insurance companies.
+But, there exist a sever time and people constraint while doing this job.
+Since, I am a lazy person, i tried to automate some of the process which they do.
+* First, There had a double work, that after fininshing each project, they need to update it in the Telegram app for Agents verification, 
+Google sheets for accouts verification, and finally in an Enterprise Resource Planning (ERP) for saving details of the policy , transaction and the respective files.
+I had an idea to automate this workflow and i told my idea to the manager of the company, While discussing this , he said that they were have tried on building website 
+of their company, but its not started yet and asked to take up this project .
+Then , after constant googling (I doesnt had enough Python skills that time!) , got some ideas and started and completed my on ERP automation such that 
+the data stored from the google sheet will be taken to excel and from excel it will be automatically updated to the ERP website which had 5 parts of work
+First, it will search for URL in google
+Second, it will login with the employee id and password
+Third, It will fill the basic details page
+Fouth, Verifiacation Page
+Fifth , Closure Page.-- In this all the insurance back data file are also need to be uploaded.
+
+Now the another problem arrised , 
+What if I can fill every details of the insurance from Insurance PDF itself ?
+    To do this i doesn't had enough python skills and the pdf format will be changing from Company to Company, so AI tools were needed to solce those problems.
+AND
+What if I could automate Insurance Underwriting itself ?
+    Its easy to automate website but if the website wwith Captcha is tough to solve without OCR technology or Human Captcha solver, companies like 2Cpatcha, BypassCaptcha
+    and many other companies or API are used to solve this during automation, but for those we need subscription, since its a non funded project, its not possible 
+    to test with subscription, But with advanced training of model using ML algorithm or AI tools, i though to automate this workflow.
+   
+This is the problems, which knocked the interest of DataScience with in me.
+
+NOTE:
+  I have attached the code file of those codes but it will work only on the specific company website, since i left the company I doesnt have acces to it, and 
+  thus the code file can't be runned.
+
+
