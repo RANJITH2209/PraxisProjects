@@ -1,1 +1,10 @@
-This contains the information.
+This project was done during my Masters in Actuarial Science in University of Madras under the Prof./ CA. Ram Chakravarthi.
+Its a group project, of 2 members, along with Mr. Aravind R.
+We took Indian Hotels company Limited to value the stock of the company, to say that wheather the company is over or under valued.
+We used Excel as modelling tool and had a reference book "Valuation" by Prof. Aswath Damodharan .
+We used Discounted Cash Flow Model (DCF) to value the company.
+After analysing the financial ratios of 5 years of financial statements, of the company and the peer groups, cashflow , profit and loss and balance sheet statements
+we projected the free cashflow for next 10 years and discounted it to find the current value of the comapany.
+By, Comparing it with the current stock price , we came to the conclusion that the company is undervalued or overvalued.
+
+
